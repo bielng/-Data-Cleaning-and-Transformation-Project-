@@ -114,9 +114,9 @@ Feel free to fork this repository and submit pull requests. Let's collaborate an
 
 ## 📬 **Contact**
 
-- **Author:** [Taban James Biel Ngunar](https://www.linkedin.com/in/taban-james-biel-ngunar)
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **Author:** [Taban Ngunar](https://www.linkedin.com/in/taban-ngunar-x217/)
+- **Email:** [ngunartaban@gmail.com](mailto:YourEmail@example.com)
+- **GitHub:** [bielng](https://github.com/bielng/Data-Cleaning-and-Transformation-Project)
 
 ---
 
